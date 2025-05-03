@@ -1,4 +1,4 @@
-# ecoar (ecoar)
+# ecoar
 
 Sustentabilidade que gera valor
 
