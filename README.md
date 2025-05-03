@@ -1,6 +1,6 @@
 # ecoar (ecoar)
 
-sustentabilidade que gera valor
+Sustentabilidade que gera valor
 
 ## Install the dependencies
 ```bash
